@@ -1,0 +1,10 @@
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\bin\Debug\netcoreapp3.1\Modelos.deps.json
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\bin\Debug\netcoreapp3.1\Modelos.dll
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\bin\Debug\netcoreapp3.1\Modelos.pdb
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\obj\Debug\netcoreapp3.1\Modelos.csproj.AssemblyReference.cache
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\obj\Debug\netcoreapp3.1\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\obj\Debug\netcoreapp3.1\Modelos.AssemblyInfoInputs.cache
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\obj\Debug\netcoreapp3.1\Modelos.AssemblyInfo.cs
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\obj\Debug\netcoreapp3.1\Modelos.csproj.CoreCompileInputs.cache
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\obj\Debug\netcoreapp3.1\Modelos.dll
+D:\Projetos Trabalho\Loja\Loja\Modelos\Modelos\obj\Debug\netcoreapp3.1\Modelos.pdb

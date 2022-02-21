@@ -1,0 +1,5 @@
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
