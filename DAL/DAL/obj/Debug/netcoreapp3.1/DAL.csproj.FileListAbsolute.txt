@@ -3,3 +3,11 @@ D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBu
 D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
 D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
 D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\bin\Debug\netcoreapp3.1\Modelos.dll
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\bin\Debug\netcoreapp3.1\Modelos.pdb
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\Projetos Trabalho\Loja\Loja\DAL\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

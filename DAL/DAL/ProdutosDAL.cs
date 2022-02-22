@@ -156,5 +156,13 @@ namespace Loja.DAL
                 conexao.Close();
             }
         }
+
+        public DataTable Listagem()
+        {
+            DataTable tabela = new DataTable();
+            SqlDataAdapter dataAdapter = new SqlDataAdapter("select * from Produtos", Dados.StringDeConexao);
+            dataAdapter.Fill(tabela);
+            return tabela;
+        }
     }
 }

@@ -6,7 +6,7 @@ namespace Loja.Modelos
 {
     public class VendaInformation
     {
-        public int Codigo { get; private set; }
+        public int Codigo { get; set; }
         public DateTime Data { get; private set; }
         public int Quantidade { get; private set; }
         public bool Faturado { get; private set; }
